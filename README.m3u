@@ -1,4 +1,4 @@
-# tareq1970
+# #EXTM3U
 #EXTINF:-1 " group-title="Iraq CHANNELS"
 http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
 #EXTINF:-1 tvg-id="Al Hurra Iraq ARB" tvg-name="Al Hurra Iraq ARB" tvg-language="Arabic" tvg-logo="https://www.alhurra.com/Content/responsive/MBN/ar-ALH/img/logo.svg" tvg-country="IQ" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Hurra Iraq
